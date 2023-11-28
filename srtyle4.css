@@ -1,0 +1,19 @@
+body{
+    background-color: lightslategray;
+    margin-left: 0px;
+    font-size: 45px;
+    
+}
+form {
+    border: 2px solid #a10d0d; /* Add a 1px solid border with a light gray color */
+    padding: 40px; /* Add some padding inside the form */
+    width: 1200px; /* Set a width for the form */
+    margin: 0 auto; /* Center the form on the page */
+    text-align: center;
+    
+  }
+
+h2{
+    
+    text-align: center;
+}
